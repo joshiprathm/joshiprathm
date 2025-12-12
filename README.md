@@ -27,19 +27,19 @@
 
 ### 🔹 Employee Management System (Python + SQL)  
 CRUD application using Python + MySQL.  
-**Repo:** https://github.com/YOUR_USERNAME/employee-management-system
+**Repo:** https://github.com/joshiprathm/employee-management-system
 
 ### 🔹 Linux Log Analyzer  
 Reads system logs, finds errors, generates reports.  
-**Repo:** https://github.com/YOUR_USERNAME/linux-log-analyzer
+**Repo:** https://github.com/joshiprathm/linux-log-analyzer
 
 ### 🔹 AWS S3 Static Website  
 Portfolio website hosted on AWS S3.  
-**Repo:** https://github.com/YOUR_USERNAME/aws-s3-static-website
+**Repo:** https://github.com/joshiprathm/aws-s3-static-website
 
 ### 🔹 Weather CLI App  
 Python CLI tool fetching real-time weather via API.  
-**Repo:** https://github.com/YOUR_USERNAME/weather-cli
+**Repo:** https://github.com/joahiprathm/weather-cli
 
 ---
 
