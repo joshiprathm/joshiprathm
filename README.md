@@ -18,38 +18,38 @@ My goal is to start my career as a **Cloud Engineer / DevOps Intern**, where I c
 
 ## 🧠 Core Skills & Domains
 
-### ☁️ Cloud & Infrastructure
+### ☁️ Cloud & Infrastructure (BASICS)
 - AWS Basics: EC2, S3, IAM
 - Cloud Concepts: Regions, Availability Zones, Shared Responsibility Model
 - Hosting & deploying applications on cloud
 
-### 🌐 Networking Fundamentals
+### 🌐 Networking Fundamentals (BASICS)
 - Public vs Private networks
 - Security Groups & basic firewall rules
 - Client-server communication
 
-### 🐧 Linux & Automation
+### 🐧 Linux & Automation (BASICS)
 - Linux file system & permissions
 - Process & service management
 - Shell scripting & cron jobs
 - Log analysis & system monitoring
 
-### 🔐 Security Fundamentals
+### 🔐 Security Fundamentals (BASICS)
 - IAM & access control concepts
 - Password hashing & authentication basics
 - Secure application & server practices
 
-### 🗄️ Databases (SQL)
+### 🗄️ Databases (SQL BASICS)
 - MySQL / PostgreSQL
 - CRUD operations
 - Database design fundamentals
 
-### 🐍 Programming & Scripting
+### 🐍 Programming & Scripting(BASICS)
 - Python (OOP, scripting, APIs)
 - Bash scripting
 - JSON & REST API usage
 
-### 🔄 DevOps Basics
+### 🔄 DevOps Basics(BASICS)
 - Git & GitHub
 - CI/CD concepts (learning)
 - Automation mindset
