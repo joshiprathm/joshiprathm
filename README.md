@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prathamesh Joshi
+# 👋 Hi, I'm Prathmesh Joshi
 
 ☁️ **Aspiring Cloud & DevOps Engineer (Fresher)**  
 🎓 Computer Science Graduate | Passionate about Cloud Infrastructure & Automation  
