@@ -85,7 +85,7 @@ Followed security best practices for access control
 Tech Stack: Python, SQL, Cloud, Linux, Security, Networking
 
 
-####3️⃣ Automated Backup System to Cloud Storage
+#### 3️⃣ Automated Backup System to Cloud Storage
 
 Created a Python script to automate Linux file backups
 
@@ -97,7 +97,7 @@ Scheduled automated backups using cron jobs
 Tech Stack: Linux, Python, Cloud Storage, Security, DevOps
 
 
-####4️⃣ Public & Private Network Isolation Architecture
+#### 4️⃣ Public & Private Network Isolation Architecture
 
 Designed cloud architecture with public and private subnets
 
@@ -175,7 +175,7 @@ Enabled HTTPS and secrets management
 Tech Stack: Python, SQL, Cloud, Linux, Networking, Security, DevOps
 
 
-####🔟 Cloud Security Monitoring & Alerting System
+#### 🔟 Cloud Security Monitoring & Alerting System
 
 Developed a security event monitoring system
 
@@ -220,5 +220,5 @@ Tech Stack: Cloud Security, Python, SQL, Networking, DevOps
 
 ---
 
-⭐ *Thanks for visiting my profile!*  
+## ⭐ *Thanks for visiting my profile!*  
 I’m always open to learning, collaboration, and opportunities in **Cloud, DevOps, and Infrastructure Engineering**.
