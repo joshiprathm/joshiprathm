@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Prathmesh Joshi
 
 ☁️ **Aspiring Cloud & DevOps Engineer (Fresher)**  
-🎓 Computer Science Graduate | Passionate about Cloud Infrastructure & Automation  
+🎓 Computer Engineering UnderGraduate | Passionate about Cloud Infrastructure & Automation  
 📘 Preparing for **AWS Cloud Practitioner (CLF-C02)**  
 💡 Focused on building **real-world, hands-on projects** using Cloud, Linux, Python, and DevOps fundamentals.
 
