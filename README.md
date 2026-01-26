@@ -1,64 +1,68 @@
-# 👋 Hi, I'm Prathmesh Joshi
+👋 Prathmesh Joshi
 
-☁️ **Aspiring Cloud & DevOps Engineer (Fresher)**  
-🎓 Computer Engineering UnderGraduate | Passionate about Cloud Infrastructure & Automation  
-📘 Preparing for AZ-900: Microsoft Azure Fundamentals  
-💡 Focused on building **real-world, hands-on projects** using Cloud, Linux, Python, and DevOps fundamentals.
+☁️ Aspiring Cloud & DevOps Engineer | Fresher
+🎓 Computer Engineering Undergraduate
+📘 AZ-900 (Microsoft Azure Fundamentals) – In Progress
 
----
+🚀 Professional Summary (Recruiter-Focused)
 
-## 🚀 About Me
+Motivated and disciplined Cloud & DevOps fresher with hands-on experience across AWS, Microsoft Azure, and Google Cloud platforms using their respective consoles. Strong foundational knowledge of cloud infrastructure, Linux, networking, security, databases, and automation, gained through real-world, project-based learning.
 
-I am a motivated and disciplined fresher with a strong foundation in **Cloud Computing, Linux, Networking, Security, Databases, and Automation**.  
-I believe in **learning by building**, so I actively create projects that simulate real production scenarios instead of just theoretical practice.
+Actively building and documenting projects that simulate production-like cloud scenarios, with a strong focus on problem-solving, security best practices, and reliability. Seeking an opportunity as a Cloud Engineer / DevOps Intern or Junior Cloud Engineer to apply skills in real systems and grow under industry mentorship.
 
-My goal is to start my career as a **Cloud Engineer / DevOps Intern**, where I can apply my skills, learn from real systems, and grow into a reliable cloud professional.
+🧠 Technical Skills & Domains
+☁️ Cloud Platforms (Foundational Hands-on)
 
----
+- Amazon Web Services (AWS): EC2, S3, IAM (AWS Console)
+- Microsoft Azure: Virtual Machines, Resource Groups, Storage (Azure Portal)
+- Google Cloud Platform (GCP): Compute & storage concepts (GCP Console)
+- Core cloud concepts:
+     - Regions & Availability Zones
+     - Shared Responsibility Model
+     - Basic cloud architecture & deployment
 
-## 🧠 Core Skills & Domains
+🌐 Networking Fundamentals
 
-### ☁️ Cloud & Infrastructure (BASICS)
-- AWS Basics: EC2, S3, IAM
-- Cloud Concepts: Regions, Availability Zones, Shared Responsibility Model
-- Hosting & deploying applications on cloud
-
-### 🌐 Networking Fundamentals (BASICS)
 - Public vs Private networks
 - Security Groups & basic firewall rules
-- Client-server communication
+- Client–server architecture & connectivity troubleshooting
 
-### 🐧 Linux & Automation (BASICS)
-- Linux file system & permissions
+🐧 Linux & Automation
+- Linux file system, users & permissions
 - Process & service management
 - Shell scripting & cron jobs
-- Log analysis & system monitoring
+- Log analysis & basic system monitoring
 
-### 🔐 Security Fundamentals (BASICS)
+🔐 Security Fundamentals
 - IAM & access control concepts
-- Password hashing & authentication basics
-- Secure application & server practices
+- Authentication & password hashing basics
+- Secure server & application practices
 
-### 🗄️ Databases (SQL BASICS)
+🗄️ Databases (SQL)
 - MySQL / PostgreSQL
 - CRUD operations
-- Database design fundamentals
+- Relational database design fundamentals
 
-### 🐍 Programming & Scripting(BASICS)
-- Python (OOP, scripting, APIs)
+🐍 Programming & Scripting
+- Python (OOP, scripting, REST APIs)
 - Bash scripting
-- JSON & REST API usage
+- JSON handling & API integration
 
-### 🔄 DevOps Basics(BASICS)
-- Git & GitHub
-- CI/CD concepts (learning)
-- Automation mindset
+🔄 DevOps Fundamentals
+- Git & GitHub (version control)
+- CI/CD concepts (learning & implementation basics)
+- Automation-first mindset
 
----
+🚀 Skills Demonstrated Through Projects
 
-### 🚀 Core Skills Demonstrated Across Projects
+☁️ Cloud Infrastructure
+🌐 Networking & Security
+🐧 Linux Administration
+🗄️ SQL Databases
+🐍 Python Automation
+🔄 DevOps Fundamentals
 
-☁️ Cloud Computing | 🌐 Networking | 🐧 Linux | 🔐 Security | 🗄️ SQL | 🐍 Python | 🔄 DevOps
+(Hands-on projects include cloud debugging, backups, security configuration, automation, and deployment scenarios.)
 
 ---
 
@@ -74,7 +78,7 @@ My goal is to start my career as a **Cloud Engineer / DevOps Intern**, where I c
 
 ## 🎯 Current Focus
 
-- 📘 AWS Cloud Practitioner (CLF-C02) preparation  
+- 📘 Microsoft Azure Fundamentals (AZ-900) preparation 
 - 🛠️ Building cloud + DevOps hands-on projects  
 - 📂 Improving documentation & architecture diagrams  
 - 🚀 Preparing for cloud internships & fresher roles
@@ -88,5 +92,5 @@ My goal is to start my career as a **Cloud Engineer / DevOps Intern**, where I c
 
 ---
 
-## ⭐ *Thanks for visiting my profile!*  
-I’m always open to learning, collaboration, and opportunities in **Cloud, DevOps, and Infrastructure Engineering**.
+## ⭐ Open to internships, fresher roles, and mentorship opportunities in Cloud & DevOps.
+Always eager to learn, build, and contribute to real-world infrastructure systems.
