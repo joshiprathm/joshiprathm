@@ -1,17 +1,21 @@
-👋 Prathmesh Joshi
+# 👋 Prathmesh Joshi
 
 ☁️ Aspiring Cloud & DevOps Engineer | Fresher
 🎓 Computer Engineering Undergraduate
 📘 AZ-900 (Microsoft Azure Fundamentals) – In Progress
 
-🚀 Professional Summary (Recruiter-Focused)
+----
+
+## 🚀 Professional Summary (Recruiter-Focused)
 
 Motivated and disciplined Cloud & DevOps fresher with hands-on experience across AWS, Microsoft Azure, and Google Cloud platforms using their respective consoles. Strong foundational knowledge of cloud infrastructure, Linux, networking, security, databases, and automation, gained through real-world, project-based learning.
 
 Actively building and documenting projects that simulate production-like cloud scenarios, with a strong focus on problem-solving, security best practices, and reliability. Seeking an opportunity as a Cloud Engineer / DevOps Intern or Junior Cloud Engineer to apply skills in real systems and grow under industry mentorship.
 
-🧠 Technical Skills & Domains
-☁️ Cloud Platforms (Foundational Hands-on)
+---
+
+## 🧠 Technical Skills & Domains
+### ☁️ Cloud Platforms (Foundational Hands-on)
 
 - Amazon Web Services (AWS): EC2, S3, IAM (AWS Console)
 - Microsoft Azure: Virtual Machines, Resource Groups, Storage (Azure Portal)
@@ -21,39 +25,53 @@ Actively building and documenting projects that simulate production-like cloud s
      - Shared Responsibility Model
      - Basic cloud architecture & deployment
 
-🌐 Networking Fundamentals
+---
+
+### 🌐 Networking Fundamentals
 
 - Public vs Private networks
 - Security Groups & basic firewall rules
 - Client–server architecture & connectivity troubleshooting
 
-🐧 Linux & Automation
+---
+
+### 🐧 Linux & Automation
 - Linux file system, users & permissions
 - Process & service management
 - Shell scripting & cron jobs
 - Log analysis & basic system monitoring
 
-🔐 Security Fundamentals
+---
+
+### 🔐 Security Fundamentals
 - IAM & access control concepts
 - Authentication & password hashing basics
 - Secure server & application practices
 
-🗄️ Databases (SQL)
+---
+
+### 🗄️ Databases (SQL)
 - MySQL / PostgreSQL
 - CRUD operations
 - Relational database design fundamentals
 
-🐍 Programming & Scripting
+---
+
+### 🐍 Programming & Scripting
 - Python (OOP, scripting, REST APIs)
 - Bash scripting
 - JSON handling & API integration
 
-🔄 DevOps Fundamentals
+---
+
+### 🔄 DevOps Fundamentals
 - Git & GitHub (version control)
 - CI/CD concepts (learning & implementation basics)
 - Automation-first mindset
 
-🚀 Skills Demonstrated Through Projects
+---
+
+### 🚀 Skills Demonstrated Through Projects
 
 ☁️ Cloud Infrastructure
 🌐 Networking & Security
