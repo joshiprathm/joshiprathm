@@ -2,7 +2,7 @@
 
 ☁️ **Aspiring Cloud & DevOps Engineer (Fresher)**  
 🎓 Computer Engineering UnderGraduate | Passionate about Cloud Infrastructure & Automation  
-📘 Preparing for **AWS Cloud Practitioner (CLF-C02)**  
+📘 Preparing for AZ-900: Microsoft Azure Fundamentals  
 💡 Focused on building **real-world, hands-on projects** using Cloud, Linux, Python, and DevOps fundamentals.
 
 ---
