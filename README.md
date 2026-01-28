@@ -6,7 +6,7 @@
 
 ----
 
-## 🚀 Professional Summary (Recruiter-Focused)
+## 🚀 Professional Summary 
 
 Motivated and disciplined Cloud & DevOps fresher with hands-on experience across AWS, Microsoft Azure, and Google Cloud platforms using their respective consoles. Strong foundational knowledge of cloud infrastructure, Linux, networking, security, databases, and automation, gained through real-world, project-based learning.
 
